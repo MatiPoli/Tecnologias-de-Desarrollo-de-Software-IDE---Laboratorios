@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab02", "Lab02\Lab02.csproj", "{743258F1-9611-42FC-BD0E-2BAC6B039606}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|ARM32 = Debug|ARM32
+		Release|Any CPU = Release|Any CPU
+		Release|ARM32 = Release|ARM32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{743258F1-9611-42FC-BD0E-2BAC6B039606}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{743258F1-9611-42FC-BD0E-2BAC6B039606}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{743258F1-9611-42FC-BD0E-2BAC6B039606}.Debug|ARM32.ActiveCfg = Debug|Any CPU
+		{743258F1-9611-42FC-BD0E-2BAC6B039606}.Debug|ARM32.Build.0 = Debug|Any CPU
+		{743258F1-9611-42FC-BD0E-2BAC6B039606}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{743258F1-9611-42FC-BD0E-2BAC6B039606}.Release|Any CPU.Build.0 = Release|Any CPU
+		{743258F1-9611-42FC-BD0E-2BAC6B039606}.Release|ARM32.ActiveCfg = Release|ARM32
+		{743258F1-9611-42FC-BD0E-2BAC6B039606}.Release|ARM32.Build.0 = Release|ARM32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F2CFF94C-B115-474A-B0C0-B74B81AD9BA0}
+	EndGlobalSection
+EndGlobal
